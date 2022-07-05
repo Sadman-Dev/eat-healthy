@@ -1,0 +1,146 @@
+body 
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.hero-area
+{
+    margin-bottom: 150px;
+}
+.flex-container 
+{
+    display: flex;
+}
+
+.hero-text
+{
+    width: 50%;
+    margin-top: 250px;
+    padding-left: 90px;
+}
+
+.hero-text h1 
+{
+    font-size: 55px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color: #575757;
+    margin: 0;
+    
+}
+.hero-text span 
+{
+    color: #FE5130;
+}
+
+.hero-text p 
+{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #828282;
+}
+.hero-img
+{
+    width: 50%;
+}
+
+.btn
+{
+    text-decoration: none;
+    font-size: 18px;
+    background-image: linear-gradient(#FC8D47, #FD5031);
+    color: white;
+    padding: 20px 40px;
+    border-radius: 50px;
+    
+}
+
+.about-area 
+{
+   
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    
+}
+.about-area img
+{
+    width: 50%;
+    padding-left: 200px;
+    padding-top: 80px;
+}
+
+.about-text
+{
+    width: 50%;
+    padding-left: 90px;
+    padding-top: 180px;
+}
+
+.about-text h1 
+{
+    font-size: 55px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #575757;
+    margin: 0;
+    
+}
+.about-text span 
+{
+    color: #FE5130;
+}
+
+.about-text p 
+{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #828282;
+}
+
+.recipe-area
+{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.recipie-header h1
+{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+}
+.recipie-header p
+{
+    padding-left: 250px;
+    width: 60%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.recipie-item
+{
+    box-shadow: 10px 10px 40px #bdc3c7;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5%;
+}
+
+.recipie-item img
+{
+    width: 100%;
+}
+
+.recipie-item h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
